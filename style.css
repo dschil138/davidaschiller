@@ -163,7 +163,7 @@ body {
   background: rgba(0, 0, 0, 0) url("img/background/bg.jpg") no-repeat center top / cover ;
 }
 .main-area::after {
-  background-color: rgba(45, 51, 75, 0.75);
+  /*- background-color: rgba(154, 146 72, 0.9); --*/
   content: "";
   height: 100%;
   left: 0;
@@ -190,14 +190,14 @@ body {
 }
 .main-menu ul.navbar-nav li.active a:hover {
   background: none;
-  color:#1fc0a0; 
+  color:#4089B2; 
 }
 .main-menu ul.navbar-nav li.active a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
   color: #ddd;
 }
 .main-menu ul.navbar-nav li a:hover {
-  color: #1fc0a0;
+  color: #4089B2;
 }
 .navbar {
   border: medium none;
@@ -292,11 +292,11 @@ body {
   color: #fff;
 }
 .stick .main-menu ul.nav > li > a:hover {
-  color: #1fc0a0;
+  color: #4089B2;
 }
 .stick .main-menu ul.navbar-nav li.active a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #1fc0a0;
+  color: #4089B2;
   position: relative;
 }
 .stick .mainmenu ul#nav >li:hover>a,.stick .mainmenu ul#nav li .mega-menu,.stick .mainmenu ul#nav li ul.sub-menu{
@@ -355,7 +355,7 @@ h2.name-text {
 .left-content span {
   font-size: 20px;
   font-weight: 700;
-  color: #1fc0a0;
+  color: #4089B2;
 }
 .typer {
   opacity: 1;
@@ -385,7 +385,7 @@ h2.name-text {
   transition: 0.3s;
 }
 .about-bottom {
-  background: #1fc0a0 none repeat scroll 0 0;
+  background: #4089B2 none repeat scroll 0 0;
   display: block;
   margin-left: 15px;
   margin-right: 15px;
@@ -453,7 +453,7 @@ h2.name-text {
   margin-right: 30px;
 }
 .about-self > p::first-letter {
-  color: #1fc0a0;
+  color: #4089B2;
   font-size: 20px;
   font-weight: 700;
 }
@@ -479,7 +479,7 @@ h2.name-text {
   position: relative;
 }
 .web-per {
-  background: #1fc0a0 none repeat scroll 0 0;
+  background: #4089B2 none repeat scroll 0 0;
   color: #fff;
   font-size: 10px;
   height: 20px;
@@ -493,14 +493,14 @@ h2.name-text {
 .web-per::after {
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
-  border-top: 9px solid #1fc0a0;
+  border-top: 9px solid #4089B2;
   bottom: -9px;
   content: "";
   left: 13px;
   position: absolute;
 }
 .progress-bar {
-  background: #1fc0a0 none repeat scroll 0 0;
+  background: #4089B2 none repeat scroll 0 0;
   line-height: 8px;
 }
 .bar-2 {
@@ -535,7 +535,7 @@ h2.name-text {
     padding-top: 25px;
 }
 .select-pin {
-  background: #1fc0a0 none repeat scroll 0 0;
+  background: #4089B2 none repeat scroll 0 0;
   color: #fff;
   font-size: 16px;
   font-weight: 700;
@@ -549,7 +549,7 @@ h2.name-text {
   content: "";
   position: absolute;
   top: 28px;
-  border-top: 12px solid #1fc0a0;
+  border-top: 12px solid #4089B2;
 }
 .left-edu .select-pin::after {
   border-left: 12px solid transparent;
@@ -579,19 +579,19 @@ h2.name-text {
   width: 2px;
 }
 .right-expre .edu-result {
-  border-left: 2px solid #1fc0a0;
+  border-left: 2px solid #4089B2;
   padding: 30px 10px 15px 30px;
   position: relative;
   text-align: left;
 }
 .left-edu .edu-result {
   position: relative;
-  border-right: 2px solid #1fc0a0;
+  border-right: 2px solid #4089B2;
 
 }
 .right-expre .edu-result::before {
-  background: #1fc0a0 none repeat scroll 0 0;
-  border: 1px solid #1fc0a0;
+  background: #4089B2 none repeat scroll 0 0;
+  border: 1px solid #4089B2;
   content: "";
   height: 16px;
   position: absolute;
@@ -606,7 +606,7 @@ h2.name-text {
 }
 .right-expre .edu-result::after {
   border-bottom: 50px solid transparent;
-  border-right: 20px solid #1fc0a0;
+  border-right: 20px solid #4089B2;
   border-top: 50px solid transparent;
   content: "";
   position: absolute;
@@ -614,8 +614,8 @@ h2.name-text {
   bottom: 1px;
 }
 .left-edu .edu-result::after {
-  background: #1fc0a0 none repeat scroll 0 0;
-  border: 1px solid #1fc0a0;
+  background: #4089B2 none repeat scroll 0 0;
+  border: 1px solid #4089B2;
   content: "";
   height: 16px;
   position: absolute;
@@ -631,7 +631,7 @@ h2.name-text {
 }
 .left-edu .edu-result::before {
   border-bottom: 50px solid transparent;
-  border-left: 20px solid #1fc0a0;
+  border-left: 20px solid #4089B2;
   border-top: 50px solid transparent;
   content: "";
   position: absolute;
@@ -738,7 +738,7 @@ h2.name-text {
   font-size: 30px;
 }
 .project-dec h5 a:hover {
-	color: #1fc0a0;
+	color: #4089B2;
 }
 .pst-content {
   padding-left: 10px;
@@ -780,13 +780,13 @@ h2.name-text {
   border-bottom: 2px solid transparent;
 }
 .portfolio-menu li a.active {
-  border-bottom: 2px solid #1fc0a0;
-  color: #1fc0a0;
+  border-bottom: 2px solid #4089B2;
+  color: #4089B2;
   text-decoration: none;
 }
 .portfolio-menu li a:hover {
-  border-bottom: 2px solid #1fc0a0;
-  color: #1fc0a0;
+  border-bottom: 2px solid #4089B2;
+  color: #4089B2;
   text-decoration: none;
   transition: all 0.3s ease 0s;
 }
@@ -827,7 +827,7 @@ h2.name-text {
   width: 46px;
   height: 46px;
   border-radius: 50%;
-  background: #1fc0a0;
+  background: #4089B2;
   display: inline-block;
   color: #fff;
   line-height: 46px;
@@ -856,17 +856,17 @@ h2.name-text {
   text-transform: capitalize;
 }
 .pri_table_list button {
-  background: #1fc0a0 none repeat scroll 0 0;
+  background: #4089B2 none repeat scroll 0 0;
   color: #fff;
   padding: 10px 50px;
   text-transform: uppercase;
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
   border-radius: 2px;
   margin-bottom: 25px;
   transition: 0.4s;
 }
 .pri_table_list > h3 {
-  background: #1fc0a0 none repeat scroll 0 0;
+  background: #4089B2 none repeat scroll 0 0;
   color: #fff;
   font-size: 24px;
   font-weight: 700;
@@ -904,17 +904,17 @@ h2.name-text {
 }
 .pri_table_list > button:hover {
   background-color: #fff;
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
   color: #333;
 }
 .active > h3 {
-  background: #1fc0a0 none repeat scroll 0 0;
+  background: #4089B2 none repeat scroll 0 0;
   color: #fff;
   transition: 0.4s;
 }
 .active > button {
-  background: #1fc0a0 none repeat scroll 0 0;
-  border: 1px solid #1fc0a0;
+  background: #4089B2 none repeat scroll 0 0;
+  border: 1px solid #4089B2;
   color: #fff;
   border-radius: 2px;
   transition: 0.4s;
@@ -923,12 +923,13 @@ h2.name-text {
 /*  8. Clients Area
 /*--------------------------------*/
 .reviews-area {
+  background-color: #f7f7f7;
   display: block;
   position: relative;
   width: 100%;
 }
 .testi-img img {
-  border: 2px solid #1fc0a0;
+  border: 2px solid #4089B2;
   border-radius: 50%;
   height: 80px;
   margin: 0 auto;
@@ -937,8 +938,8 @@ h2.name-text {
   width: 80px !important;
 }
 .testi-text p {
-  background: #1fc0a0 none repeat scroll 0 0;
-  border: 1px solid #1fc0a0;
+  background: #4089B2 none repeat scroll 0 0;
+  border: 1px solid #4089B2;
   color: #fff;
   display: inline-block;
   font-size: 17px;
@@ -952,7 +953,7 @@ h2.name-text {
 .testi-text p::after {
   background: transparent none repeat scroll 0 0;
   border-right: 20px solid transparent;
-  border-top: 25px solid #1fc0a0;
+  border-top: 25px solid #4089B2;
   bottom: -24px;
   content: "";
   left: 50%;
@@ -980,9 +981,9 @@ h2.name-text {
 }
 .item-indicator.owl-carousel.owl-theme .owl-controls .owl-nav div {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
   border-radius: 0;
-  color: #1fc0a0;
+  color: #4089B2;
   display: inline-block;
   font-size: 20px;
   height: 30px;
@@ -997,9 +998,9 @@ h2.name-text {
   top: 0;
 }
 .item-indicator.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev:hover,.item-indicator.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next:hover{
-	background:#1fc0a0;
+	background:#4089B2;
   color:#fff;
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
 }
 .item-indicator.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev{
   position: absolute;
@@ -1020,7 +1021,7 @@ h2.name-text {
   position: relative;
 }
 .single-client::before {
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
   content: "";
   height: 80%;
   position: absolute;
@@ -1029,7 +1030,7 @@ h2.name-text {
   width: 1px;
 }
 .single-client:nth-last-child(n+4)::after {
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
   content: "";
   height: 1px;
   position: absolute;
@@ -1041,7 +1042,7 @@ h2.name-text {
   border: none;
 }
 .single-client:hover {
-  background-color: #1fc0a0;
+  background-color: #4089B2;
 }
 /*----------------------------------------*/
 /* 9. Blog Area
@@ -1112,10 +1113,10 @@ h2.name-text {
   display: inline-block;
   padding: 5px 20px 5px 10px;
   position: relative;
-  background: #1fc0a0;
+  background: #4089B2;
   text-transform: capitalize;
   border-radius: 2px;
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
 }
 .blog-btn::after {
 	content: "";
@@ -1126,8 +1127,8 @@ h2.name-text {
 }
 .blog-btn:hover {
   background: #fff;
-  color: #1fc0a0;
-  border: 1px solid #1fc0a0;
+  color: #4089B2;
+  border: 1px solid #4089B2;
   text-decoration: none;
 }
 .blog-content p {
@@ -1167,9 +1168,9 @@ h2.name-text {
   top: 0;
 }
 .blog-item.item-indicator.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev:hover,.item-indicator.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next:hover{
-	background: #1fc0a0;
+	background: #4089B2;
   color: #fff;
-  border: 1px solid #1fc0a0;
+  border: 1px solid #4089B2;
 }
 .blog-item.item-indicator.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev {
   position: absolute;
@@ -1251,8 +1252,8 @@ h2.name-text {
   resize: none;
 }
 .contact-form input[type="submit"] {
-  background: #1fc0a0 none repeat scroll 0 0;
-  border: 1px solid #1fc0a0;
+  background: #4089B2 none repeat scroll 0 0;
+  border: 1px solid #4089B2;
   border-radius: 2px;
   color: #fff;
   display: block;
@@ -1264,15 +1265,15 @@ h2.name-text {
   transition: all 0.3s ease 0s;
 }
 .contact-form input[type=submit]:hover{
-  color:#1fc0a0;
-  border: 1px solid #1fc0a0;
+  color:#4089B2;
+  border: 1px solid #4089B2;
   background: #fff;
 }
 .contact-form input[type="text"]:focus, 
 .contact-form input[type="email"]:focus,
 .contact-form textarea:focus {
 	outline: -webkit-focus-ring-color auto 0px;
-	border: 1px solid #1fc0a0;
+	border: 1px solid #4089B2;
 }
 /*----------------------------------------*/
 /*  11. Fotter Area  CSS
@@ -1450,7 +1451,7 @@ h2.name-text {
   padding: 0 5px 10px;
 }
 .entry-meta span a:hover {
-  color: ##1fc0a0;
+  color: ##4089B2;
 }
 .post-information .entry-meta span:first-child i {
   padding-left: 0;
